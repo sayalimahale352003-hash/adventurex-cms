@@ -2,6 +2,10 @@
 
 AdventureX is a dynamic adventure and travel blog website built with Next.js and Contentful CMS. Blog content is managed through Contentful and fetched dynamically using the Contentful API.
 
+🌐<b> Live Website</b>
+Deployed on Vercel:
+https://adventurex-cms-5n1l.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
