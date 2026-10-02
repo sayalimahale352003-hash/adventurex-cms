@@ -1,4 +1,3 @@
-```ts
 import { createClient } from "contentful";
 
 // Check that Contentful environment variables exist
@@ -53,4 +52,3 @@ export async function getBlogPostBySlug(slug: string) {
     return null;
   }
 }
-```
