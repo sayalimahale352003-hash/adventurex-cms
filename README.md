@@ -2,9 +2,27 @@
 
 AdventureX is a dynamic adventure and travel blog website built with Next.js and Contentful CMS. Blog content is managed through Contentful and fetched dynamically using the Contentful API.
 
-🌐<b> Live Website</b>
-Deployed on Vercel:
+🌐<b> Live Website</b><br>
+Deployed on Vercel:<br>
 https://adventurex-cms-5n1l.vercel.app/
+
+📌<b> About the Project</b><br>
+
+AdventureX provides a responsive platform for discovering adventure and travel-related blog posts.<br>
+
+The project uses Contentful as a headless CMS, allowing blog content to be created and updated without changing the website source code.<br>
+
+Main Features<br>
+Dynamic blog listing<br>
+Individual blog detail pages<br>
+Contentful CMS integration<br>
+Contentful API integration<br>
+Dynamic blog images<br>
+Slug-based blog URLs<br>
+Responsive design<br>
+Next.js Image optimization<br>
+GitHub version control<br>
+Vercel deployment<br>
 
 ## Getting Started
 
