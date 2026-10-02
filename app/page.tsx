@@ -13,7 +13,7 @@ export default async function Home() {
         <div className="mx-auto max-w-6xl">
 
           <h1 className="text-5xl font-bold tracking-tight md:text-6xl">
-            Welcome to My Blog
+            Welcome to AdventureX
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg text-gray-300">
@@ -203,7 +203,7 @@ export default async function Home() {
 
         <div className="mx-auto max-w-6xl text-center text-sm text-gray-500">
 
-          © {new Date().getFullYear()} My Blog.
+          © {new Date().getFullYear()} 2026 AdventureX
           All rights reserved.
 
         </div>
