@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<b>AdventureX CMS</b> <br>
+
+AdventureX is a dynamic adventure and travel blog website built with Next.js and Contentful CMS. Blog content is managed through Contentful and fetched dynamically using the Contentful API.
 
 ## Getting Started
 
