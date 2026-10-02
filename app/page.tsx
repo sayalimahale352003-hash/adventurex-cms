@@ -203,7 +203,7 @@ export default async function Home() {
 
         <div className="mx-auto max-w-6xl text-center text-sm text-gray-500">
 
-          © {new Date().getFullYear()} 2026 AdventureX
+          © {new Date().getFullYear()} AdventureX
           All rights reserved.
 
         </div>
